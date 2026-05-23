@@ -1,0 +1,4 @@
+interface:
+  display_name: "岳姐故事版生成"
+  short_description: "生成岳姐短视频故事版、分镜表和 Codex image2 画面提示词。"
+  default_prompt: "为岳姐账号生成一个 9:16 生活化短视频故事版，包含标题、总时长、镜头表、台词旁白、转场、场景细节和 Codex image2 画面生成提示词。"
